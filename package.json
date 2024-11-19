@@ -1,0 +1,22 @@
+{
+  "name": "hyper-nushu-dark",
+  "version": "1.0.0",
+  "description": "A dark theme for Hyper inspired by the Nüshu VSCode theme",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "theme",
+    "nushu",
+    "dark"
+  ],
+  "author": {
+    "email": "moemanchu@icloud.com",
+    "url": "https://github.com/wheredoesyourmindgo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wheredoesyourmindgo/hyper-nushu-dark"
+  },
+  "license": "MIT",
+  "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610"
+}
