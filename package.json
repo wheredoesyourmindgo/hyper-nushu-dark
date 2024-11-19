@@ -1,6 +1,6 @@
 {
   "name": "hyper-nushu-dark",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A dark theme for Hyper inspired by the Nüshu VSCode theme",
   "main": "index.js",
   "keywords": [
